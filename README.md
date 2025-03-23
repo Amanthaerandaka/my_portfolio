@@ -1,1 +1,1 @@
-<a herf= "https://amanthaerandaka.github.io/my_portfolio/">My portfolio link </a>
+[My portfolio link](https://amanthaerandaka.github.io/my_portfolio/)
